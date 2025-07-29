@@ -11,7 +11,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 /**
- * Clas to initialize the Telegram Bot
+ * Class to initialize the Telegram Bot
  */
 
 @Slf4j
